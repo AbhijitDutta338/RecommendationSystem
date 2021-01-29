@@ -1,0 +1,3 @@
+# RecommendationSystem
+This is a implementation of a recommendation system in a e-commerce site made using Django.
+Project still in progress........
